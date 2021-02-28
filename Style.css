@@ -65,9 +65,22 @@ a:hover {
 .textcenter {
   color: #efefef;
   position: absolute;
-  top: 196px;
+  top: 198px;
   left: 86px;
 }
 .textcenter:hover{
   cursor: default;
+}
+.btn {
+  width: 20px;
+  height: 20px;
+  background: #F3AC3C;
+
+}
+.btn:hover {
+  size: 90%;
+  background: #efefef;
+}
+#Bold {
+  font-size: 18px;
 }
