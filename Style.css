@@ -39,7 +39,7 @@ body{
 #underline {
   text-decoration: underline;
 }
-.underline:hover {
+#underline:hover {
   cursor: default;
 }
 .container1 {
