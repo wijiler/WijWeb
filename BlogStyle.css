@@ -7,11 +7,9 @@ body{
   }
   a {
     color: #F3AC3C;
+    text-decoration: none;
   }
   a:hover {
     cursor: pointer;
     color: #efefef;
   }
-text {
-
-}

@@ -36,10 +36,10 @@ body{
 .textl:hover{
   cursor: default;
 }
-.underline {
+#underline {
   text-decoration: underline;
 }
-.underline:hover {
+#underline:hover {
   cursor: default;
 }
 .container1 {
@@ -55,6 +55,7 @@ body{
 }
 a {
   color: #F3AC3C;
+  text-decoration: none;
 }
 a:hover {
   cursor: pointer;
@@ -65,9 +66,25 @@ a:hover {
 .textcenter {
   color: #efefef;
   position: absolute;
-  top: 196px;
+  top: 198px;
   left: 86px;
 }
 .textcenter:hover{
   cursor: default;
+}
+.btn {
+  width: 50px;
+  height: 30px;
+  background: #F3AC3C;
+  color: #1A4341;
+  border: none;
+  border-radius: 5px;
+}
+.btn:hover {
+  size: 20rem;
+  background: #efefef;
+  color: #F3AC3C;
+}
+#Bold {
+  font-size: 18px;
 }
