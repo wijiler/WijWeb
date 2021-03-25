@@ -7,6 +7,5 @@ My personal website
   html
   :---:
   css
-
   js(soon)
   
