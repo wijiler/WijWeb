@@ -3,8 +3,10 @@
 My personal website
 
     Coding languages
-|  :----------------: |
-|  html               |
-|  css                |
-|  js(soon)           |
-|                     | 
+  :----------------: 
+  html
+  :---:
+  css
+  :-:
+  js(soon)
+  :------:
