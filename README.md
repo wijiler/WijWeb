@@ -3,7 +3,6 @@
 My personal website
 
     Coding languages
-  :----------------: 
   html
   :---:
   css
