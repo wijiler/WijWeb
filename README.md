@@ -2,9 +2,9 @@
 ---------------
 My personal website
 
-    Coding languages
+   A  T A B L E
   html
   :---:
   css
-  js(soon)
+  node
   
